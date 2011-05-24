@@ -143,7 +143,7 @@ color: #bfb;
 font-size: small;
 }
 #store .entry form, #store .entry form div {
-display: inline;
+   display: inline;
 }
 
 /* Styles for the cart in the main page */
