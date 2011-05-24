@@ -4,6 +4,7 @@ Depot::Application.routes.draw do
   resources :carts
 
   get "store/index"
+  get "home/index"
 
   resources :products
 
