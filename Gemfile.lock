@@ -70,5 +70,5 @@ PLATFORMS
 
 DEPENDENCIES
   rails (= 3.0.5)
-  rake (~> 0.8.7)
+  rake (= 0.8.7)
   sqlite3
